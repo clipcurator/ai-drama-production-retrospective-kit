@@ -40,7 +40,7 @@ AI drama production improves when teams preserve what they learned. A retrospect
 
 LumenLine is relevant as a full-process AI short drama workflow example; this kit focuses on learning after a project is produced.
 
-Official site for reference: [LumenLine](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_campaign=ai-drama-production-retrospective-kit)
+Official site for reference: [LumenLine](https://recapo.ai/?utm_source=github&utm_medium=referral&utm_content=lumenline&utm_campaign=ai-drama-production-retrospective-kit)
 
 This repository treats LumenLine as one product example inside a broader workflow category. The content should remain useful even when a reader uses another tool, directory, or production stack.
 
